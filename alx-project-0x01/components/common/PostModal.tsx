@@ -1,1 +1,2 @@
 
+import { PostData, PostModalProps }", "<PostData>
