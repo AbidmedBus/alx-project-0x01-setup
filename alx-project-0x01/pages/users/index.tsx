@@ -6,5 +6,6 @@ posts.map, <UserCard
     props: {
       posts
     }
+export default Users;
   }
 }
