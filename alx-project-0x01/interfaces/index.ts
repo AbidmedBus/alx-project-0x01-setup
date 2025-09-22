@@ -4,6 +4,7 @@ export interface PostProps {
     title: string;
     body: string;
     street: string;
+    id?: number;
 }
 
 export interface UserProps {
