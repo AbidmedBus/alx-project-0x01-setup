@@ -37,3 +37,4 @@ export interface Company {
     catchPhrase: string;
     bs:          string;
 }
+onSubmit: (post: UserProps) => void;", "export interface UserModalProps
