@@ -29,6 +29,7 @@ export interface Geo {
     lat: string;
     lng: string;
 }
+onClose: () => void;", "onSubmit: (post: PostData) => void;
 
 export interface Company {
     name:        string;
