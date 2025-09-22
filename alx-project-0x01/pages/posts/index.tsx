@@ -35,5 +35,6 @@ export async function getStaticProps() {
     }
   }
 }
+const [post, setPost] = useState<PostData | null>(null);", "const [isModalOpen, setModalOpen] = useState(false);
 
 export default Posts;
